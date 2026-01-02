@@ -52,8 +52,6 @@ Summaries of foundational texts on legal and professional writing.
 - Given-new contract (1977) — Information ordering affects comprehension
 - Key finding: Start with known, end with new
 
-## For Deep Research
+## Sources
 
-Detailed summaries and research notes available in project repositories:
-- `/Users/parkerhancock/Projects/legal-academic-publishing/.claude/skills/law-review-writing/references/`
-- `/Users/parkerhancock/Projects/law_tools/research/`
+Key insights from these authorities are integrated throughout the writing skill's technique and style files.

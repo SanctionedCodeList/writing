@@ -69,8 +69,8 @@ Empirical studies and research supporting writing guidance.
 - **Implication:** Narrative increases with experience preference
 - **Source:** Chestek, law review empirical study
 
-## For Deep Research
+## Sources
 
-Full research notes and citations available in:
-- `/Users/parkerhancock/Projects/law_tools/research/`
-- `/Users/parkerhancock/Projects/legal-academic-publishing/guidance/`
+Research findings are integrated throughout the writing skill's technique files, particularly:
+- [cognitive-fluency.md](../../techniques/cognitive-fluency.md)
+- [compelling-writing.md](../../techniques/compelling-writing.md)

@@ -23,11 +23,6 @@ Four high-impact AI law articles were analyzed for technique extraction:
 | **Four-factor walkthroughs** | Systematic application | Doctrinal analysis |
 | **Contemporary examples** | Current, relatable illustrations | Opening hooks, background |
 
-### Full Analysis
-
-Detailed exemplar analysis available in:
-- `/Users/parkerhancock/Projects/legal-academic-publishing/guidance/exemplars.md`
-
 ## Brief Writing Exemplars
 
 ### Top Litigator Techniques
@@ -42,11 +37,6 @@ Extracted from briefs by Roberts, Clement, Olson, Boies, and other elite advocat
 6. **Drawing lines** — Clear standards, not mush
 7. **Antithesis** — Contrasting structures
 
-### Full Analysis
-
-Detailed litigator technique notes in:
-- `/Users/parkerhancock/Projects/law_tools/research/top-litigators-techniques.md`
-
 ## Executive Document Exemplars
 
 ### Consulting-Style Documents
@@ -60,5 +50,4 @@ Key patterns from McKinsey, BCG, Bain style:
 
 ### For Reference
 
-Industry style conventions detailed in:
-- `/Users/parkerhancock/Projects/python_docx_redline/skills/docx/design/industry-styles.md`
+Industry conventions are detailed in [styles/executive.md](../../styles/executive.md).
