@@ -162,3 +162,20 @@ For research backing and detailed guidance:
 - **references/authorities/**: Summaries of Garner, Volokh, and other writing authorities
 - **references/research/**: Empirical studies on persuasion, fluency, judicial psychology
 - **references/exemplars/**: Model document analyses
+
+## Reporting Issues
+
+If you encounter bugs, unexpected behavior, or want to request new features, use the GitHub CLI:
+
+```bash
+# Report a bug
+gh issue create --repo SanctionedCodeList/writing --title "Bug: [description]" --body "## Problem\n[Describe the issue]\n\n## Expected behavior\n[What should happen]\n\n## Steps to reproduce\n[How to trigger it]"
+
+# Request a feature
+gh issue create --repo SanctionedCodeList/writing --title "Feature: [description]" --body "## Use case\n[Why this is needed]\n\n## Proposed solution\n[How it might work]"
+
+# Check existing issues first
+gh issue list --repo SanctionedCodeList/writing
+```
+
+This helps improve the skill for all users.
