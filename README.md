@@ -71,7 +71,3 @@ Techniques are grounded in empirical research:
 - **Schwarz et al.** — Processing fluency as truth heuristic
 - **Martinez et al. (2023)** — Even lawyers prefer plain English
 - **Supreme Court study** — Minimal emotional language increases win rates
-
-## License
-
-MIT
