@@ -7,13 +7,19 @@ A Claude Code plugin providing comprehensive writing guidance for professional d
 Add to your Claude Code plugins:
 
 ```bash
-claude plugins add parkerhancock/writing
+claude plugins add SanctionedCodeList/writing
 ```
 
-Or clone and add locally:
+Or via the SCL marketplace (includes law-tools, office-bridge, and more):
 
 ```bash
-git clone https://github.com/parkerhancock/writing.git
+claude plugins add SanctionedCodeList/SCL_marketplace
+```
+
+**Local installation:**
+
+```bash
+git clone https://github.com/SanctionedCodeList/writing.git
 claude plugins add ./writing
 ```
 
