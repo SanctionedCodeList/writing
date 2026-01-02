@@ -1,0 +1,9 @@
+{
+  "name": "writing",
+  "description": "Comprehensive writing guidance for professional documents across legal, academic, executive, and business contexts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Parker Hancock"
+  },
+  "repository": "https://github.com/parkerhancock/writing"
+}

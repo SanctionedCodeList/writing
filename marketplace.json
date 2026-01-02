@@ -1,0 +1,18 @@
+{
+  "name": "writing-marketplace",
+  "owner": {
+    "name": "Parker Hancock",
+    "url": "https://github.com/parkerhancock/writing"
+  },
+  "plugins": [
+    {
+      "name": "writing",
+      "source": "./",
+      "description": "Comprehensive writing guidance for professional documents. Provides style guides, cognitive fluency techniques, structure frameworks, and revision checklists for legal, academic, executive, and business writing.",
+      "version": "0.1.0",
+      "skills": [
+        "./skills/writing"
+      ]
+    }
+  ]
+}
