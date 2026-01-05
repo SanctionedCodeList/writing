@@ -58,6 +58,7 @@ Load the appropriate style based on what you're writing:
 | Client letter, advice, communication | [styles/client-facing.md](styles/client-facing.md) |
 | Contract, deal document, agreement | [styles/transactional.md](styles/transactional.md) |
 | Executive report, deck, business document | [styles/executive.md](styles/executive.md) |
+| Expert witness report, damages analysis, technical opinion | [styles/expert-report.md](styles/expert-report.md) |
 
 ## Quick Reference
 
